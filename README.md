@@ -1,14 +1,14 @@
-april-hub
+## april-hub
 
 Portfolio Site – a dark‑mode‑friendly résumé & project hub built with Next.js (coming soon).
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 Hi, I’m April Wolfe—a lifelong dog‑sport devotee and small‑business owner pivoting into software development. I’m working toward an Associate of Science in Computer Science at the University of the People, with plans to continue through the B.S. (and yes, the M.S. is on my radar).
 
 My happy place is where code and canines overlap: automating booking for pet‑sitting clients, visualising coat‑colour genetics, or mapping search‑and‑rescue grids for local K‑9 teams.
 
-🧰 Tech & Tools
+## 🧰 Tech & Tools
 
 Python · JavaScript/TypeScript · React · Next.js · Tailwind CSS · Git/GitHub · GitHub Actions · SQLite · Django · AWS (studying)
 
@@ -21,12 +21,8 @@ Python · JavaScript/TypeScript · React · Next.js · Tailwind CSS · Git/GitHu
 | **poodle-palette** | Jupyter notebook turning genotype strings into coat-colour charts. | Data wrangling&nbsp;· matplotlib viz |
 | **search-grid-cli** | CLI tool that prints UTM search grids for SAR operations. | Friendly UX&nbsp;· geospatial libs |
 
-✨ Roadmap
 
-
-
-🤝 Let’s Connect
-
+## 🤝 Let’s Connect
 
 Email: April@LAprilw.com
 
