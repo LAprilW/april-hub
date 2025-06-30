@@ -12,39 +12,14 @@ My happy place is where code and canines overlap: automating booking for pet‑s
 
 Python · JavaScript/TypeScript · React · Next.js · Tailwind CSS · Git/GitHub · GitHub Actions · SQLite · Django · AWS (studying)
 
-📂 Key Projects (in progress)
+## 📂 Key Projects (in progress)
 
-Project
-
-Description
-
-Highlights
-
-code‑collar‑quest
-
-Text‑based Python adventure that sneaks in programming lessons.
-
-OOP fundamentals, game loop design
-
-k9mum‑budget‑sheet
-
-Django + SQLite web app to track pet‑sitting revenue vs. expenses.
-
-Full‑stack CRUD, auth, charting
-
-poodle‑palette
-
-Jupyter notebook turning genotype strings into coat‑colour charts.
-
-Data wrangling, matplotlib viz
-
-search‑grid‑cli
-
-Command‑line tool producing UTM search grids for SAR operations.
-
-CLI UX, geospatial libraries
-
-
+| Project | Description | Highlights |
+| --- | --- | --- |
+| **code-collar-quest** | Text-based Python adventure that sneaks in programming lessons. | OOP fundamentals&nbsp;· game-loop design |
+| **k9mum-budget-sheet** | Django + SQLite web app to track pet-sitting revenue vs. costs. | Full-stack CRUD&nbsp;· auth&nbsp;· charting |
+| **poodle-palette** | Jupyter notebook turning genotype strings into coat-colour charts. | Data wrangling&nbsp;· matplotlib viz |
+| **search-grid-cli** | CLI tool that prints UTM search grids for SAR operations. | Friendly UX&nbsp;· geospatial libs |
 
 ✨ Roadmap
 
