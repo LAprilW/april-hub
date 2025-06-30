@@ -4,7 +4,7 @@ Portfolio Site – a dark‑mode‑friendly résumé & project hub built with Ne
 
 ## 👩‍💻 About Me
 
-Hi, I’m April Wolfe—a lifelong dog‑sport devotee and small‑business owner pivoting into software development. I’m working toward an Associate of Science in Computer Science at the University of the People, with plans to continue through the B.S. (and yes, the M.S. is on my radar).
+Hi, I’m April Wolfe - a lifelong dog‑sport devotee and small‑business owner pivoting into software development. I’m working toward an Associate of Science in Computer Science at the University of the People, with plans to continue through the B.S. (and yes, the M.S. is on my radar).
 
 My happy place is where code and canines overlap: automating booking for pet‑sitting clients, visualising coat‑colour genetics, or mapping search‑and‑rescue grids for local K‑9 teams.
 
