@@ -1,136 +1,58 @@
-april‑hub
+april-hub
 
-Elevator pitch: A lightweight, dark‑mode–ready résumé & project showcase built with Next.js—because recruiters shouldn’t need night‑vision goggles.
+Portfolio Site – a dark‑mode‑friendly résumé & project hub built with Next.js (coming soon).
 
-👋 About Me
+👩‍💻 About Me
 
-Hi! I’m April—former pro dog groomer turned aspiring software developer. I’m currently earning an A.S. in Computer Science at University of the People, with plans to continue on to the B.S. (and maybe the M.S.—because why stop at halftime?). When I’m not debugging code, you’ll find me training poodles or scouring Spartanburg for the next great taco.
+Hi, I’m April Wolfe—a lifelong dog‑sport devotee and small‑business owner pivoting into software development. I’m working toward an Associate of Science in Computer Science at the University of the People, with plans to continue through the B.S. (and yes, the M.S. is on my radar).
 
-📸 Live Demo & Screenshots
+My happy place is where code and canines overlap: automating booking for pet‑sitting clients, visualising coat‑colour genetics, or mapping search‑and‑rescue grids for local K‑9 teams.
 
-Live site: https://YOUR‑DEPLOY‑URL.com (replace once deployed)
+🧰 Tech & Tools
 
-Screenshots / GIFs: Add a couple of light‑ and dark‑theme shots here.
+Python · JavaScript/TypeScript · React · Next.js · Tailwind CSS · Git/GitHub · GitHub Actions · SQLite · Django · AWS (studying)
 
-✨ Features
+📂 Key Projects (in progress)
 
-Dark / Light Theme Toggle (persists via localStorage)
+Project
 
-Mobile‑First, Responsive Layout (Tailwind CSS)
+Description
 
-Sections: About • Skills & Tools • Projects (auto‑pulls pinned repos via GitHub API) • Experience • Education • Contact
+Highlights
 
-Continuous Deployment: Push to main automatically deploys to Vercel (via GitHub Actions).
+code‑collar‑quest
 
-SEO & Social Meta Tags ready for sharing on LinkedIn/Twitter.
+Text‑based Python adventure that sneaks in programming lessons.
 
-100 % Lighthouse‑score target (performance, a11y, best practices).
+OOP fundamentals, game loop design
 
-🛠️ Tech Stack
+k9mum‑budget‑sheet
 
-Layer
+Django + SQLite web app to track pet‑sitting revenue vs. expenses.
 
-Tools & Libraries
+Full‑stack CRUD, auth, charting
 
-Framework
+poodle‑palette
 
-Next.js 14 (App Router) + React 18
+Jupyter notebook turning genotype strings into coat‑colour charts.
 
-Styling
+Data wrangling, matplotlib viz
 
-Tailwind CSS 3 + @tailwindcss/typography
+search‑grid‑cli
 
-Animation
+Command‑line tool producing UTM search grids for SAR operations.
 
-Framer Motion
+CLI UX, geospatial libraries
 
-Icons
 
-Heroicons
 
-Language
+✨ Roadmap
 
-TypeScript
 
-Testing
 
-Jest + React Testing Library
+🤝 Let’s Connect
 
-Lint / Format
 
-ESLint, Prettier, Husky & Lint‑Staged
+Email: April@LAprilw.com
 
-🚀 Getting Started
-
-# 1. Clone the repo
-$ git clone https://github.com/YOUR‑HANDLE/april‑hub.git
-$ cd april‑hub
-
-# 2. Install dependencies
-$ pnpm install   # or npm / yarn
-
-# 3. Start the dev server
-$ pnpm dev       # default: http://localhost:3000
-
-Environment Variables
-
-Variable
-
-Purpose
-
-NEXT_PUBLIC_GITHUB
-
-Your GitHub handle (API)
-
-FORM_ENDPOINT
-
-Formspree / Resend URL
-
-Create a .env.local file with the keys above.
-
-⚙️ CI / CD
-
-GitHub Actions workflow deploy.yml:
-
-Runs lint + test on every push
-
-Deploys to Vercel on success
-
-Caches pnpm for faster builds
-
-(Workflow file lives under .github/workflows/.)
-
-🗺️ Roadmap
-
-
-
-🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
-Fork the project
-
-Create your feature branch (git checkout ‑b feat/AmazingFeature)
-
-Commit your changes (git commit ‑m 'feat: add amazing feature')
-
-Push to the branch (git push origin feat/…)
-
-Open a Pull Request
-
-📜 License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-🙏 Acknowledgments
-
-Next.js Documentation
-
-Tailwind CSS
-
-Framer Motion
-
-Formspree for easy form handling
-
-Made with ☕, 🎧 lo‑fi beats, and the occasional dog‑hair in the keyboard.
-
+Made with caffeine, dog hair & infinite curiosity. Licensed under MIT.
