@@ -16,10 +16,10 @@ Python · JavaScript/TypeScript · React · Next.js · Tailwind CSS · Git/GitHu
 
 | Project | Description | Highlights |
 | --- | --- | --- |
-| **code-collar-quest** | Text-based Python adventure that sneaks in programming lessons. | OOP fundamentals&nbsp;· game-loop design |
-| **k9mum-budget-sheet** | Django + SQLite web app to track pet-sitting revenue vs. costs. | Full-stack CRUD&nbsp;· auth&nbsp;· charting |
-| **poodle-palette** | Jupyter notebook turning genotype strings into coat-colour charts. | Data wrangling&nbsp;· matplotlib viz |
-| **search-grid-cli** | CLI tool that prints UTM search grids for SAR operations. | Friendly UX&nbsp;· geospatial libs |
+| **[code-collar-quest](https://github.com/laprilw/code-collar-quest)** | Text-based Python adventure that sneaks in programming lessons. | OOP fundamentals&nbsp;· game-loop design |
+| **[k9mum-budget-sheet](https://github.com/laprilw/k9mum-budget-sheet)** | Django + SQLite web app to track pet-sitting revenue vs. costs. | Full-stack CRUD&nbsp;· auth&nbsp;· charting |
+| **[poodle-palette](https://github.com/laprilw/poodle-palette)** | Jupyter notebook turning genotype strings into coat-colour charts. | Data wrangling&nbsp;· matplotlib viz |
+| **[search-grid-cli](https://github.com/laprilw/search-grid-cli)** | CLI tool that prints UTM search grids for SAR operations. | Friendly UX&nbsp;· geospatial libs |
 
 
 ## 🤝 Let’s Connect
